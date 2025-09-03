@@ -24,7 +24,7 @@ Set up the following AWS services:
 ```sh
 # 1. Open Amazon SageMaker Console
 # 2. Create a new Notebook Instance
-# 3. Upload ai_pipeline_notebook.ipynb to the environment
+# 3. Upload useAI-Notebook.ipynb to the environment
 ```
 ### 4. Configure Your Environment
 Update the notebook with your AWS resource values:
