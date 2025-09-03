@@ -85,22 +85,9 @@ AI-Text-Speech-Pipeline/
 * **Boto3 SDK** – Python SDK for AWS services
 * **Python** – Primary programming language
 ---
-## 📸 Screenshots
-### 1. PDF Text Extraction
-Extract text content from uploaded PDF documents using Amazon Textract.  
-<img src="images/text_extraction.png"/>
----
-### 2. Sentiment Analysis Results
-Analyze the emotional tone and sentiment of extracted text.  
-<img src="images/sentiment_analysis.png"/>
----
-### 3. Language Translation
-Translate text content between multiple supported languages.  
-<img src="images/translation.png"/>
----
-### 4. Audio Generation
-Convert translated text to natural-sounding speech files.  
-<img src="images/audio_generation.png"/>
+## 📸 Structure
+<img src="structure.png"/>
+
 ---
 ## 🧪 Output Files
 * **Extracted Text** → Stored as `.txt` files in S3
