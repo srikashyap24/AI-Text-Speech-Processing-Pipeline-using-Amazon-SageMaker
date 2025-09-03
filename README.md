@@ -130,8 +130,4 @@ Convert translated text to natural-sounding speech files.
 * Implement **batch processing** for multiple documents
 * Add **custom vocabulary** support for better transcription accuracy
 ---
-## 🧑‍💻 Author
-**Sri Kashyap Dongari**  
-Master's in Computer Science & Engineering – BTH, Sweden  
-Passionate about data, AI, and cloud technologies.
----
+
